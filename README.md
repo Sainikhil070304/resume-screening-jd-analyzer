@@ -71,7 +71,9 @@ Matched / Missing skills
 
 Generates downloadable ATS report
 
-📁 Folder Structure
+## 📁 Folder Structure
+
+```
 Resume-Screening-JD-Analyzer/
 │
 ├── app.py                     # Main Streamlit application
@@ -88,6 +90,8 @@ Resume-Screening-JD-Analyzer/
     ├── dashboard.png
     ├── match.png
     └── report.png
+```
+
 
 🔧 Setup Instructions
 1. Clone Repository
